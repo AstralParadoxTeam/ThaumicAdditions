@@ -35,7 +35,7 @@ public class ItemTheBeheader
 		extends Item
 		implements IRegisterListener
 {
-	public final int attackDamage = 10;
+	public final int attackDamage = 17;
 
 	public ItemTheBeheader()
 	{
